@@ -1,6 +1,5 @@
 ### Hi there 👋, my name is Austin
 #### I am a student at UCF
-![I am a student at UCF](file:///C:/Users/Austin%20McClarren/Desktop/githubpic.png)
 
 I'm Austin from Florida, and i am currently a student at UCF for full stack development! I enjoy learning new languages and frameworks!  
 
