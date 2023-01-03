@@ -1,26 +1,29 @@
-### Hi there 👋, my name is Austin
-#### I am a student at UCF
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Austin McClarren
+========================================================================================================================================
 
-I'm Austin from Florida, and i am currently a student at UCF for full stack development! I enjoy learning new languages and frameworks!  
+Student at UCF
+--------------
 
-Skills: JS / HTML / CSS
+I'm Austin from Florida, and I am currently a student at UCF for full stack development! I enjoy learning new languages and frameworks!
 
-- 🔭 I’m currently working on Ear Worm 
-- 🌱 I’m currently learning React/JS 
-- 😄 Pronouns: He/Him 
+* 🌍  I'm based in Florida
+* ✉️  You can contact me at [austinmcclarren7@gmail.com](mailto:austinmcclarren7@gmail.com)
+* 🧠  I'm learning JS/REACT
 
+### Skills
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AustinMcClarren)  
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+</p>
 
-<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
+### Socials
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AustinMcClarren)](https://github.com/anuraghazra/github-readme-stats)
+<p align="left"> <a href="https://discord.com/users/blamo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/Austin Mcclarren" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
+### Badges
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AustinMcClarren&show_icons=true&count_private=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=AustinMcClarren)  
-
-![Profile views](https://gpvc.arturio.dev/AustinMcClarren)  
+<a href="https://github.com/Austin Mcclarren" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Austin Mcclarren&langs_count=10&title_color=0891b2&text_color=000000&icon_color=0891b2&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>  
 
 
 
