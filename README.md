@@ -8,7 +8,7 @@ I'm Austin from Florida, and I am currently a student at UCF for full stack deve
 
 * 🌍  I'm based in Florida
 * ✉️  You can contact me at [austinmcclarren7@gmail.com](mailto:austinmcclarren7@gmail.com)
-* 🧠  I'm learning JS/REACT
+* 🧠  I'm learning JS/REACT/TS
 
 ### Skills
 
