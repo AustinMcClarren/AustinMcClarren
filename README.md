@@ -11,8 +11,7 @@ I'm Austin from Florida, and I am currently a student at UCF for full stack deve
 * 🧠  I'm learning JS/REACT/PYTHON/MONGOOSE/FLASK
 
 ### Skills
-
-![My Skills](https://skillicons.dev/icons?i=js,html,css,github,git,py,vscode)]
+![My Skills](https://skillicons.dev/icons?i=js,html,css,github,git,py,vscode)
   
 
 
