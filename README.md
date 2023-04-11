@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Austin McClarren
 ========================================================================================================================================
 
-Student at UCF // Software Engineer Intern at Community Dreams Foundation
+Student at UCF // Software Engineer at Community Dreams Foundation
 --------------------------------------------------------------------------
 
 I'm Austin from Florida, and I am currently a student at UCF for full stack development! I enjoy learning new languages and frameworks!
