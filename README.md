@@ -1,7 +1,7 @@
 - 👨🏽‍💻 I’m currently interning at Community Dreams Foundation
 - 🤔 My interest lies in Back-End Web Development
 - 💬 Ask me about anything from [austinmcclarren7@gmail.com]
-- 🌐 You can see my personal website through(austinmcclarren.dev)
+- 🌐 You can see my personal website through[austinmcclarren.dev]
 
 
 <p style="display: inline-block;" align="center">
